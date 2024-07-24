@@ -1,19 +1,2 @@
-**Class:**
 
-Blueprint for creating objects (specific instances of a class). And also defines properties and behaviors (methods).
-
-**Encapsulation:**
-
-Bundling of data and methods that operate on the data within one unit (class).And restricts direct access to some of the object's components, which can prevent accidental interference and misuse of data.
-
-**Abstraction:**  
-
-Hides complex implementation details and shows only the necessary features of an object.And helps in reducing programming complexity and effort.
-
-**Inheritance:**
-
-Mechanism where a new class inherits properties and behavior (methods) from an existing class to promotes code reusability.
-
-**Polymorphism:**
-
-Ability of different classes to be treated as instances of the same class through inheritance. Which enables a single interface to represent different underlying forms (data types).
+In this project, **Object-Oriented Programming (OOP)** concepts are employed to enhance code organization, reusability, and maintainability. By defining classes as blueprints, we encapsulate related data and methods, promoting modularity. **Encapsulation** restricts direct access to object data, ensuring data integrity. **Abstraction** simplifies complex systems by exposing only essential features, reducing programming complexity. **Inheritance** enables new classes to inherit properties and behaviors from existing ones, fostering code reuse and reducing redundancy. **Polymorphism** allows objects of different classes to be treated uniformly based on shared interfaces, enhancing flexibility and integration. These OOP principles collectively streamline development, making the codebase more robust, scalable, and easier to manage.
